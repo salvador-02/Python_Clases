@@ -14,9 +14,9 @@ else:
 
 
 #determinar si una persona es mayor de edad para conducir, utilizando una variable booleana
-# Limite = 18
-# Edad = 16
-# if Edad >= Limite:
-#     print("Puede Conducir")
-# else:
-#     print("No puede conducir")
+Limite = 18
+Edad = 16
+if Edad >= Limite:
+    print("Puede Conducir")
+else:
+    print("No puede conducir")
