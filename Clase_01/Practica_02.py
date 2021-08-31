@@ -14,8 +14,9 @@ print(area)
 
 
 #Ej.1 Palindromo 
-Palabra = "neuquen"
-if Palabra == ''.join(reversed(Palabra)):
-    print("Es Palindroma")
+Palabra = ("arroz")
+Palabra1 = ("zorra")
+if Palabra == ''.join(reversed(Palabra1)):
+    print(Palabra, "es palindroma")
 else:
-    print("No es Palindroma")
+    print(Palabra, "no es palindroma")
