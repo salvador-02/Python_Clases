@@ -55,7 +55,7 @@ MyLibro = ""
 myStr = "Hola Mundo"
 dir() = "Lo Que Se Puede Hacer Con Este String"
 upper = ("Convierte todo en mayuscula")
-capitalize = ("Funcion que convierte la primera letra en ayuscula")
+capitalize = ("Funcion que convierte la primera letra en Mayuscula")
 print(myStr.index("a")) = "Muestra La Cantidad De Letras"
 
 
